@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MyLocalizationDemo</string>
+    <string name="title">Demo Lokalisasi</string>
+    <string name="langselection">Pilih bahasa yang akan ditampilkan</string>
+    <string name="chooselang">Pilih Bahasa</string>
+    <string name="button_label">Terapkan Bahasa</string>
+
+    <string-array name="languages">
+        <item>Pilih Bahasa</item>
+        <item>Deutch</item>
+        <item>French</item>
+        <item>English</item>
+        <item>Bahasa</item>
+    </string-array>
+</resources>

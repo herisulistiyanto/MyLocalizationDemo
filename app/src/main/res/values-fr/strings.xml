@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MyLocalizationDemo</string>
+    <string name="title">Démo de localisation</string>
+    <string name="langselection">Sélectionnez la langue dans laquelle vous souhaitez afficher</string>
+    <string name="chooselang">Choisissez la langue</string>
+    <string name="button_label">Appliquer Langue</string>
+
+    <string-array name="languages">
+        <item>Choisir la langue</item>
+        <item>Deutch</item>
+        <item>French</item>
+        <item>English</item>
+        <item>Bahasa</item>
+    </string-array>
+</resources>
